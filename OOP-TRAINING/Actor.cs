@@ -9,7 +9,7 @@ namespace OOP_TRAINING
       Accoding to our App digram this class will unify two related classes
       The related two classes are concrete class.
     */
-    public abstract class Actor
+    public abstract class Actor : IDancer
     {
         // These are fields and they start with an underscore.
         // Best practice is to make the field private, then we can use
