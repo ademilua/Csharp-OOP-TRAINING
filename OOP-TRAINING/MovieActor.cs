@@ -4,7 +4,7 @@ using System.Text;
 
 namespace OOP_TRAINING
 {
-    public class MovieActor : Actor, IDancer
+    public class MovieActor : Actor
     {
         public MovieActor(string firstName, string lastName) : base(firstName, lastName)
         {

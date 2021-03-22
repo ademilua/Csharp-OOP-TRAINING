@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Quix\\OOP-TRAINING\\OOP-TRAINING\\OOP-TRAINING\\OOP-TRAINING\\OOP-TRAINING.csproj": {}
+    "C:\\Courses\\Csharp-OOP-TRAINING\\OOP-TRAINING\\OOP-TRAINING.csproj": {}
   },
   "projects": {
-    "C:\\Quix\\OOP-TRAINING\\OOP-TRAINING\\OOP-TRAINING\\OOP-TRAINING\\OOP-TRAINING.csproj": {
+    "C:\\Courses\\Csharp-OOP-TRAINING\\OOP-TRAINING\\OOP-TRAINING.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Quix\\OOP-TRAINING\\OOP-TRAINING\\OOP-TRAINING\\OOP-TRAINING\\OOP-TRAINING.csproj",
+        "projectUniqueName": "C:\\Courses\\Csharp-OOP-TRAINING\\OOP-TRAINING\\OOP-TRAINING.csproj",
         "projectName": "OOP-TRAINING",
-        "projectPath": "C:\\Quix\\OOP-TRAINING\\OOP-TRAINING\\OOP-TRAINING\\OOP-TRAINING\\OOP-TRAINING.csproj",
+        "projectPath": "C:\\Courses\\Csharp-OOP-TRAINING\\OOP-TRAINING\\OOP-TRAINING.csproj",
         "packagesPath": "C:\\Users\\tolul\\.nuget\\packages\\",
-        "outputPath": "C:\\Quix\\OOP-TRAINING\\OOP-TRAINING\\OOP-TRAINING\\OOP-TRAINING\\obj\\",
+        "outputPath": "C:\\Courses\\Csharp-OOP-TRAINING\\OOP-TRAINING\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tolul\\AppData\\Roaming\\NuGet\\NuGet.Config",
